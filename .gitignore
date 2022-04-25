@@ -27,6 +27,11 @@
 *.lib
 
 # Executables
+main
 *.exe
 *.out
 *.app
+
+main.dSYM
+
+.DS_Store
